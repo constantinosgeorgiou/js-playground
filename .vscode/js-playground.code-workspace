@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": ".."
+        }
+    ],
+    "settings": {
+        "eslint.format.enable": false,
+        "jshint.options": {
+            "esversion": 6
+		},
+		"dotenv.enableAutocloaking": false
+    }
+}
